@@ -1,1 +1,1 @@
-# CNchess
+# CNchess by QT
