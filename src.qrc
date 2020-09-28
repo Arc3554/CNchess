@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>pj2src/piece/chessdesktop0726.png</file>
+        <file>pj2src/piece/Xiangqi_ad1.svg (1).png</file>
+        <file>pj2src/piece/Xiangqi_al1.svg.png</file>
+        <file>pj2src/piece/Xiangqi_cd1.svg.png</file>
+        <file>pj2src/piece/Xiangqi_cl1.svg.png</file>
+        <file>pj2src/piece/Xiangqi_el1.svg.png</file>
+        <file>pj2src/piece/Xiangqi_gd1.svg (1).png</file>
+        <file>pj2src/piece/Xiangqi_gl1.svg.png</file>
+        <file>pj2src/piece/Xiangqi_hd1.svg.png</file>
+        <file>pj2src/piece/Xiangqi_hl1.svg (1).png</file>
+        <file>pj2src/piece/Xiangqi_rd1.svg.png</file>
+        <file>pj2src/piece/Xiangqi_rl1.svg.png</file>
+        <file>pj2src/piece/Xiangqi_sd1.svg.png</file>
+        <file>pj2src/piece/Xiangqi_sl1.svg.png</file>
+        <file>pj2src/piece/Xiangqi_ed1.svg.png</file>
+        <file>pj2src/piece/3257456390b33e6-removebg.png</file>
+    </qresource>
+</RCC>
